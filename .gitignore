@@ -28,3 +28,4 @@ DerivedData
 # Pods/
 
 
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
